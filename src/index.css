@@ -1,0 +1,201 @@
+body{
+  background-color: rgb(255, 255, 255);
+}
+      ul{
+  
+      display: inline-block ;
+      color: rgb(255, 255, 255);
+      background-color: rgb(109, 193, 196);
+      width: 1349px;
+      height: 50px;
+      font-size: 14px;
+      font-weight: bold;
+      text-align: center;
+      /* position: fixed; */
+      }
+      li{
+        
+        display: inline-block;
+        padding: 10px;
+      
+      }
+      li:hover{
+        
+        box-shadow:  0px 10px 10px rgb(255, 253, 253);
+        background-color: rgb(255, 255, 255);
+        color: rgb(8, 8, 8);
+    } 
+    input{
+      margin-right: 20px;
+      width: 300px;
+      height: 50px;
+    }
+   
+
+
+  button:hover{
+    background-color:#0d6efd;
+    color: white;
+    border: 0px
+  }
+
+  
+  .box{
+    
+    background-color:rgb(233, 232, 232);
+    height: 500px;
+    width: 10px;
+    margin-left: 30px;
+  }
+  .boxA{
+  
+      background-color: rgb(233, 232, 232);
+      height: 560px;
+      width: 700px;
+      padding: 10px;
+      margin-top: 30px;
+      margin-left: 30px;
+  }
+  .boxB{
+    margin-top: 30px;
+    background-color: rgb(233, 232, 232);
+    height: 400px;
+    width: 500px;
+    margin-left: 30px;
+  }
+  .boxC{
+    margin-top: 30px;
+    background-color: rgb(233, 232, 232);
+    height: 500px;
+    width: 220px;
+    margin-left: 10px;
+  }
+  .MainBox{
+
+      background-color: rgb(233, 232, 232);
+      height: 800px;
+      width: 1360px;
+      
+  
+  }
+  .Our{
+    font-size: 50px;
+    text-align: top left;
+    font-weight: bold;
+    border-bottom: cadetblue solid 4px;
+    border-width: 5px;
+    
+  }
+  .mm{
+    box-shadow: 0px 0px 5px black;
+    
+
+  }
+  .bb{
+    margin-top: 30px;
+    margin-left: 30px;
+    height: 40px;
+    font-weight: bold;
+    color: rgb(156, 152, 152);
+    width: 150px;
+    border: 1px solid rgb(60, 108, 199);
+    box-shadow: rgb(60, 108, 199) 0px 0px 10px;
+    border-radius: 5px;
+  }
+  .hi{
+    margin-top: 20px;
+    text-align: top left;
+    font-size: 14px;
+    color: grey;
+    
+
+  }
+  .Hi{
+    
+    margin-top: 30px;
+    margin-left: 18px;
+    text-align: justify;
+    color: grey;
+  }
+
+
+  .slide{
+    width: 100%;
+    background-color: black;
+    height: 600px;
+    opacity: 80%;
+  }
+  .slideA{
+    background-color: black;
+    height: 600px;
+    
+    
+  }
+  .I{
+    width: 450px;
+    
+    box-shadow: 0 0 18px #000;
+  }
+
+  .BigB{
+    height: 400px;
+    width: 1360px;
+    background-color: rgb(250, 59, 59);
+  }
+.BigA{
+  
+  height: 350px;
+  margin-top: 130px;
+  margin-left: 80px;
+  width: 550px;
+  color: rgb(8, 8, 8);
+}
+.BigM{
+ 
+  margin-top: 30px;
+  height: 370px;
+  margin-left: 100px;
+  width: 600px;
+}
+  .Pri{
+    
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-left: 10px;
+    padding-bottom: 15px;
+    border-bottom: 5px solid rgb(109, 193, 196);
+    color: black;
+  }
+  .Aa{
+    margin-left: 10px;
+    text-align: justify;
+  }
+  .Dog2{
+   background-color: rgb(60, 108, 199);
+    height: 300px;
+    width: 400px;
+  }
+  .Mm{
+    box-shadow: 10px 10px 22px grey;
+    width: 430px;
+    height: 340px;
+    margin-left:30px;
+    margin-top: 30px;
+  }
+
+
+  .ba{
+    margin-top: 50px;
+    margin-left: 30px;
+    height: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(156, 152, 152);
+    width: 430px;
+    border: 2px solid rgb(60, 108, 199);
+    box-shadow: rgb(60, 108, 199) 0px 0px 10px;
+    border-radius: 5px;
+  }
+  
+  
